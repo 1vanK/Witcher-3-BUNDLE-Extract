@@ -12,6 +12,10 @@ Recursively unpack all BUNDLE files:
 W3BUNDLE.exe "c:\GOG Games\The Witcher 3 - Wild Hunt" "c:\temp\Unpack_Witcher3"
 ```
 
+## Unknown things
+1. Timestamp?
+2. Hash?
+
 ## License
 Лицензия на мой исходный код: Public Domain<br><br>
 Используемые библиотеки имеют свою лицензию:
